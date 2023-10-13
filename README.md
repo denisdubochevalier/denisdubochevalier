@@ -8,7 +8,7 @@ Hello! I'm Denis Chevalier, a Staff Engineer based in France with over 15 years 
 
 - **Languages:** Go, Ruby, Javascript, C, C++, Python, Haskell, Lisp, etc. Choosing a language is not a matter of opinion, but of weighting the pros and cons in the context of a project.
 - **Technologies:** Relational and non-relational databases, Docker, Git, various cloud platforms, etc.
-- **Methodologies:** I am most familiar with Toyota Production System (TPS) Lean, and XP, and lean towards science-based methodologies and practices.
+- **Methodologies:** I am most familiar with Toyota Production System (TPS) Lean, and XP, as well as SRE and DevOps; and lean towards science-based methodologies and practices.
 
 ## 📚 Publications
 
