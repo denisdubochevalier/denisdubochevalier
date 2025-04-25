@@ -15,8 +15,6 @@ Hello! I'm Denis Chevalier, a Staff Engineer based in France with over 15 years 
 - **Books:**
     - I am currently writing a Staff Engineer Handbook (writing phase ETA end of 2026).
     - I just finished writing a philosophy book titled: "Reflexions in Silicon: Man, Machine, and the Philosophy of Being", that is currently getting reviewed by peers (publication ETA end of 2026).
-- **Papers:**
-    - I am co-autor of an ongoing paper on TPS methodologies in the context of service industry scale-ups (ETA end of 2024).
 - **Articles:**
     - I have various publications on the following sources
       - [My personal blog](https://denischevalier.fr)
