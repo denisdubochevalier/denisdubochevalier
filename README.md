@@ -13,8 +13,8 @@ Hello! I'm Denis Chevalier, a Staff Engineer based in France with over 15 years 
 ## 📚 Publications
 
 - **Books:**
-    - I am currently writing a Staff Engineer Handbook (writing phase ETA end of 2024).
-    - I just finished writing a philosophy book titled: "Reflexions in Silicon: Man, Machine, and the Philosophy of Being", that is currently getting reviewed by peers (publication ETA end of 2024).
+    - I am currently writing a Staff Engineer Handbook (writing phase ETA end of 2026).
+    - I just finished writing a philosophy book titled: "Reflexions in Silicon: Man, Machine, and the Philosophy of Being", that is currently getting reviewed by peers (publication ETA end of 2026).
 - **Papers:**
     - I am co-autor of an ongoing paper on TPS methodologies in the context of service industry scale-ups (ETA end of 2024).
 - **Articles:**
@@ -25,7 +25,7 @@ Hello! I'm Denis Chevalier, a Staff Engineer based in France with over 15 years 
 
 ## 🎵 Musical Journey
 
-An accomplished musician with [6 full-length records and EPs published](https://stalys.bandcamp.com/). My music spans contemporary classical, electro-experimental, ambiant, noise and jazz and has been appreciated for its storytelling and cinematic appeal.
+An accomplished musician with [8 full-length records and EPs published](https://stalys.bandcamp.com/). My music spans contemporary classical, electro-experimental, ambiant, noise and jazz and has been appreciated for its storytelling and cinematic appeal.
 
 ## 🤖 Current Projects
 
