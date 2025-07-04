@@ -27,8 +27,9 @@ An accomplished musician with [8 full-length records and EPs published](https://
 
 ## 🤖 Current Projects
 
+- **[ptr](https://github.com/denisdubochevalier/ptr)**: A simple go utility package to create pointers from literal values.
 - **[λ.c](https://denisdubochevalier.github.io/lambdac)**: Crafting a compiler for a minimalist lambda calculus programming language.
-- **[monad](https://github.com/denisdubochevalier/monad)**: Implementing a comprehensive monad framework in Golang
+- **[monad](https://github.com/denisdubochevalier/monad)**: Implementing a comprehensive monad framework in Golang.
 
 ## 📬 Get in Touch
 
